@@ -1,2 +1,2 @@
 # LeetCode
-Repo to track my progress in solving LeetCode Problems
+Repo to track my progress in solving LeetCode Programming Problems
